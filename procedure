@@ -1,3 +1,4 @@
-git clone https://github.com/abperiasamy/rtl8812AU_8821AU_linux.git
+git clone https://github.com/scrivy/rtl8812AU_8821AU_linux.git
 make
 sudo make install
+sudo modprob 8812au
